@@ -1,0 +1,29 @@
+{
+  "name": "twitterimagesoriginretriever",
+  "version": "0.0.1",
+  "description": "Retrieves the original image file from a Tweet or an image hosted by Twitter",
+  "main": "twitter-images-origin-retriever.user.js",
+  "dependencies": {
+    "eslint": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metal-Mighty/TwitterImagesOriginRetriever.git"
+  },
+  "keywords": [
+    "twitter",
+    "image",
+    "media",
+    "script"
+  ],
+  "author": "Metal-Mighty",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Metal-Mighty/TwitterImagesOriginRetriever/issues"
+  },
+  "homepage": "https://github.com/Metal-Mighty/TwitterImagesOriginRetriever#readme"
+}
