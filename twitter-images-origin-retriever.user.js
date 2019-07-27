@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Twitter Images Origin Retriever
-// @version      0.1
+// @version      0.0.1
 // @description  Retrieves the original image file from a Tweet or an image hosted by Twitter
 // @author       Metal-Mighty
 // @match        https://twitter.com/*/status/*
