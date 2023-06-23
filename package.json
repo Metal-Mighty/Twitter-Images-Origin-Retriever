@@ -4,7 +4,7 @@
   "description": "Retrieves the original image file from a Tweet or an image hosted by Twitter",
   "main": "twitter-images-origin-retriever.user.js",
   "dependencies": {
-    "eslint": "^6.1.0"
+    "eslint": "^8.43.0"
   },
   "devDependencies": {},
   "scripts": {
